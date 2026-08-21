@@ -25,9 +25,9 @@
     <q-toggle v-model="accept" label="I accept the license and terms (我接受许可和条款语言)" />
 
     <div>
-      <q-btn label="Submit" type="submit" color="primary" />
+      <q-btn label="SUBMIT (提出する)" type="submit" color="primary" />
       <q-btn
-        label="Reset"
+        label="RESET (リセット)"
         type="reset"
         color="primary"
         flat
